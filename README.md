@@ -85,8 +85,8 @@ Eğitmenler ve Öğrenciler okumanın önemi konusunda hemfikirdirler. Okumaktan
   * Kodluyoruz veya herhangi başka bir -gönüllülük- esasıyla çalışan, kâr amacı gütmeyen kuruluşlarda görev almak,
   * Etütlere katılım ve soru sormak,
   * Slack kanalı üzerinde aktif olmak, sorular sormak ve diğer arkadaşların sorduğu sorulara cevaplar bulmak,
-  *
-  *
+  * Herhangi bir teknolojik konuda sınıfa sunum yapmayı istemek,
+  * Eğitim dokümanına veya Code of Conduct dokümanına katkı sunmak,
   *
   
   Yukarıda yazılı olan puan gruplarının ağırlıkları daha sonradan hesaplanacaktır.
